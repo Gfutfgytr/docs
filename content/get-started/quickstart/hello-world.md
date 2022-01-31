@@ -1,6 +1,9 @@
+7gugghuvv
+Jbkb
+7f6
 ---
 title: Hello World
-intro: 'Follow this Hello World exercise to get started with {% data variables.product.product_name %}.'
+intro: 'Follow this Hello World exercise to get started with {% data varuhhhiables.product.product_name %}.'
 versions:
   fpt: '*'
   ghes: '*'
